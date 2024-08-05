@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1124px;
+  margin: 0 auto;
+}
+
+.servecies h4 {
+  color: #f1c40f;
+}
+.servecies-content {
+  display: flex;
+  justify-content: space-around;
+}/*# sourceMappingURL=style.css.map */

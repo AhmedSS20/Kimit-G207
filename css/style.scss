@@ -1,0 +1,11 @@
+@import 'color';
+@import'config';
+
+.servecies{
+h4{
+    color: $primary-color;
+}
+&-content{
+    @include flex(space-around);
+}
+}
